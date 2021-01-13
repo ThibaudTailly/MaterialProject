@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\MaterialProjet",
+    "\\MaterialProjet\\ClientApp",
+    "\\MaterialProjet\\ClientApp\\src",
+    "\\MaterialProjet\\ClientApp\\src\\app",
+    "\\MaterialProjet\\ClientApp\\src\\app\\navbar",
+    "\\MaterialProjet\\ClientApp\\src\\assets"
+  ],
+  "SelectedNode": "\\MaterialProjet\\ClientApp\\src\\app\\navbar\\navbar.component.ts",
+  "PreviewInSolutionExplorer": false
+}
